@@ -177,7 +177,7 @@
 
     .row.justify-content-center(data-aos="fade-right")
       .col-lg-10.col-12
-        .cajon.cajon.C02.color-secundario.p-4
+        .cajon.cajon.C01.color-primario.p-4
           p.mb-0 En las aplicaciones actuales, las interfaces gráficas también incorporan nuevos patrones de interacción orientados a mejorar la experiencia del usuario, como arrastrar y soltar elementos, desplazamiento táctil, gestos multitáctiles o comandos de voz. Estas formas de interacción permiten que el uso de las aplicaciones sea más natural e intuitivo, especialmente en dispositivos móviles.
 
     Separador

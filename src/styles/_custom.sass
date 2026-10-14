@@ -1,20 +1,35 @@
 .banner-principal-decorativo
   &-1
+    animation: engrane 3.5s ease-in-out infinite alternate
+    position: absolute
+    top: 5%
+    right: 0%
+    width: 40%
+  &-2
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 62%
+    right: 70%
+  &-3
     animation: engrane 4s linear infinite  // Cambiado a rotación continua
     position: absolute
     top: 15%
     right: 90%
     transform-origin: center // Asegura que gire sobre su propio centro
-  &-2
-    animation: float1 3.5s ease-in-out infinite alternate
-    position: absolute
-    top: 5%
-    right: 5%
-  &-3
-    animation: float1 2.8s ease-in-out infinite alternate
-    position: absolute
-    top: 62%
-    right: 70%
+
+//Animación para flotar horizontalmente
+@keyframes float1
+  0%
+    transform: translateY(20px)
+  100%
+    transform: translateY(0px)
+
+// Animación para giro
+@keyframes engrane
+  0%
+    transform: rotate(0deg)
+  100%
+    transform: rotate(360deg)
 
 .banner-principal__img
   z-index: 1
@@ -92,9 +107,9 @@ figcaption
 
 //- Modulo cajones
 .cajon.C01
-  background-color: #C0F6F2
-.cajon.C02
   background-color: #C9E8F7
+.cajon.C02
+  background-color: #C0F6F2
 .cajon.C03
   background-color: #FFF7DF
 .cajon.C04
@@ -128,7 +143,7 @@ figcaption
 .tarjeta--C02
   background-color: #C9E8F7
 .tarjeta--C03
-  background-color: #F1E6EF
+  background-color: #F2E4EF
 .tarjeta--C04
   background-color: #69D7E5
 .tarjeta--C05
@@ -152,7 +167,7 @@ figcaption
 .acordion-color-01
   .acordion
     .acordion__activo
-      background-color: #C9E8F7
+      background-color: #C0F6F2
 
     .acordion__accion__btn--b
       background-color: #9C2424
@@ -184,9 +199,9 @@ figcaption
 .linea-tiempo-d.color-acento-botones.especial
   .linea-tiempo-d__item--selected
     .linea-tiempo-d__item__content
-      background-color: #C9E8F7 !important 
+      background-color: #C0F6F2 !important 
     .tarjeta.tarjeta--gris
-      background-color: #C9E8F7
+      background-color: #C0F6F2
       span
         color: $black
   .linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title
@@ -205,7 +220,7 @@ figcaption
   display: flex
 
 .style___box_1
-  background-color: #68C6EA
+  background-color: #68EAE0
   padding: 0rem 1rem 0rem 0rem
   img
     margin-left: -0.8rem !important

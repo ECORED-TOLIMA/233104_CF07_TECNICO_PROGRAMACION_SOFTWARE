@@ -365,7 +365,7 @@
 
     .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-up")
       .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/tema4/img-06.png')})`}"
+        :style="{'background-image': `url(${require('@/assets/curso/tema5/img-16.png')})`}"
       )
       .bloque-texto-g__texto.p-4
         p.mb-0(data-aos="fade-down") En dispositivos móviles, los componentes suelen organizarse en una sola columna para facilitar la lectura y la navegación táctil, mientras que en pantallas de escritorio es posible distribuir el contenido en varias columnas y aprovechar mejor el espacio disponible. Este enfoque responsivo contribuye a mejorar la experiencia del usuario en diferentes dispositivos y contextos de uso, permitiendo que una misma interfaz mantenga su funcionalidad, claridad y accesibilidad independientemente del tamaño de la pantalla.
