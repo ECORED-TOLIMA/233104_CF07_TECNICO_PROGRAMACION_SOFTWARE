@@ -357,7 +357,7 @@
             figure
               img(src='@/assets/curso/tema5/figura-1-1v.svg', alt='La Figura 4 presenta un ejemplo de diseño responsivo donde la interfaz se organiza en una sola columna en dispositivos móviles y en varias columnas en pantallas de escritorio.')
           .col-auto.movil(data-aos="fade-left")
-            a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_Arquitectura_de_una_aplicacion_web_moderna.pdf')" target="_blank")
+            a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_Diseño_responsivo_con_CSS_Grid_y_Flexbox.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto

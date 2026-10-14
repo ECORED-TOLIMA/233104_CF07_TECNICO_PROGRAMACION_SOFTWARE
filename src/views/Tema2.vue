@@ -351,7 +351,7 @@
               .anexo__icono
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
-                p #[b Anexo.] Jerarquía de controles en Windows Forms (Framework .NET[V)
+                p #[b Anexo.] Anatomía de una aplicación de escritorio típica (Windows)
 
 
 
