@@ -377,6 +377,11 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
+          nombre: 'Manuel Felipe Echavarría Orozco',
+          cargo: 'Desarrollador <i>full stack</i>',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
           nombre: 'Gilberto Junior Rodríguez Rodríguez',
           cargo: 'Animador y productor audiovisual',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
@@ -392,7 +397,17 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
+          nombre: 'María Fernanda Pineda Mora',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
           nombre: 'Jorge Bustos Gómez',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Javier Mauricio Oviedo',
           cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
