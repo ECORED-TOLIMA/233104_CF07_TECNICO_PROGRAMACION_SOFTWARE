@@ -65,7 +65,7 @@
     .row.justify-content-center.mb-4
       .col.col-lg-5.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3.g-0.d-none.d-lg-block
         figure
-          img(src='@/assets/curso/tema3/img-07.png', alt='')
+          img(src='@/assets/curso/tema3/img-07.svg', alt='')
       .col.col-lg-7.col-12.order-lg-1.order-2
         .cajon.cajon.C01.color-primario.p-4.mb-4
           p.mb-0 
