@@ -56,7 +56,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y <em>web.</em>',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -89,7 +89,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y <em>web.</em>',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -122,7 +122,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y <em>web.</em>',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -155,7 +155,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y <em>web.</em>',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -188,7 +188,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y <em>web.</em>',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -222,7 +222,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y <em>web.</em>',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -255,7 +255,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y <em>web.</em>',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -288,7 +288,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y <em>web.</em>',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -320,7 +320,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y <em>web.</em>',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -353,7 +353,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y <em>web.</em>',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -386,7 +386,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y <em>web.</em>',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -415,7 +415,7 @@ export default {
             { id: 'd', texto: 'Linux Foundation', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y <em>web.</em>',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -448,7 +448,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y <em>web.</em>',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -481,7 +481,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y <em>web.</em>',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -514,7 +514,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y <em>web.</em>',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -548,7 +548,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y <em>web.</em>',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -576,7 +576,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y <em>web.</em>',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -609,7 +609,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y <em>web.</em>',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -642,7 +642,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y <em>web.</em>',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -675,7 +675,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y <em>web.</em>',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con las interfaces gráficas de usuario, su diseño, usabilidad y aplicación en entornos de escritorio y web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
